@@ -2,7 +2,7 @@
 
 CS student @ UC Berkeley, experienced in distributed systems & ML tooling 🚀
 
-**Currently Building:** [double-blind](https://github.com/anikag35/double-blind)
+**Currently Building:** [algoscope](https://github.com/anikag35/algoscope)
 
 **Stack:** Python · Java · Rust · Typescript · SQL · GRPC  · AWS · PostgreSQL
 
