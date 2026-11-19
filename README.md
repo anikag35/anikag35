@@ -2,7 +2,7 @@
 
 CS student @ UC Berkeley, experienced in distributed systems & ML tooling 🚀
 
-**Check me out:** [AG Records](https://anikag35.github.io/ag-records/) 💿 my portfolio, played like a record
+**Portfolio:** [AG Records](https://anikag35.github.io/ag-records/)  my work, played like a record 💿
 
 **Stack:** Python · Java · Rust · Typescript · SQL · GRPC  · AWS · PostgreSQL
 
