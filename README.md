@@ -2,7 +2,7 @@
 
 CS student @ UC Berkeley, experienced in distributed systems & ML tooling 🚀
 
-**Currently Building:** [algoscope](https://github.com/anikag35/algoscope)
+**Check me out:** [AG Records](https://anikag35.github.io/ag-records/) 💿 my portfolio, played like a record
 
 **Stack:** Python · Java · Rust · Typescript · SQL · GRPC  · AWS · PostgreSQL
 
